@@ -25,5 +25,5 @@ Portfolio: [[bhuvanrajasportfolio.vercel.app]](https://bhuvanrajasportfolio.verc
 
 X/Twitter: [@browntechdude](https://x.com/browntechdude)
 
-LinkedIn: [Bhuvan Raja S](www.linkedin.com/in/bhuvans987)
+LinkedIn: [bhuvans987](https://www.linkedin.com/in/bhuvans987)
 
