@@ -24,3 +24,6 @@ Early-career builder and entrepreneur based in Bangalore. I ship full products f
 Portfolio: [[bhuvanrajasportfolio.vercel.app]](https://bhuvanrajasportfolio.vercel.app/)
 
 X/Twitter: [@browntechdude](https://x.com/browntechdude)
+
+LinkedIn: [Bhuvan Raja S](www.linkedin.com/in/bhuvans987)
+
