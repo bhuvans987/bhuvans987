@@ -21,6 +21,6 @@ Early-career builder and entrepreneur based in Bangalore. I ship full products f
 [View scenario](https://us1.make.com/public/shared-scenario/7DHQpE64e9I/ai-resume-shortlisting-backend-developm)
 
 ## Elsewhere
-Portfolio: [add your site link once it's live]
+Portfolio: [bhuvanrajasportfolio.vercel.app]
 
 X/Twitter: [@browntechdude](https://x.com/browntechdude)
