@@ -1,6 +1,6 @@
 # Bhuvan
 
-Early-career builder and entrepreneur based in Bangalore. I ship full products from idea to real users, real auth, and real payments.
+Full-stack builder and entrepreneur based in Bangalore. I ship full products from idea to real users, real auth, and real payments.
 
 ## What I've Built
 
